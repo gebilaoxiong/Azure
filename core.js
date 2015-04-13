@@ -2,7 +2,7 @@
  *
  * @authors 熊洋 (xywindows@gmail.com)
  * @date    2014-09-25 22:38:03
- * @description 博恩软件 前端框架：azure(蔚蓝)
+ * @description azure(蔚蓝)
  */
 
 /*******************************************
